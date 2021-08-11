@@ -1,0 +1,9 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "title": "Hello world",
+      "text": "I am here"
+    }
+  ]
+}
